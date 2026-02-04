@@ -1,4 +1,5 @@
 # The Best Way to Play The Witcher 3
+(Nexusmods)[https://www.nexusmods.com/witcher3/mods/11381]
 
 There is one sad moment in The Witcher 3 — the moment when everything suddenly ends. Luckily it is a game, so you can always start again. But the game almost pushes us into the classic order: main story, Hearts of Stone, and only after that Blood and Wine. Enemy levels clearly point to this.
 But come on. Getting your own house in Toussaint with all its bonuses and then finishing the game? That feels unfair.
