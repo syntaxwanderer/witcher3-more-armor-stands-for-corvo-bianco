@@ -1,0 +1,34 @@
+{
+    "files": [
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\mq7024_interior_deco\\ground_floor_deco\\rich_deco\\deco_interior_rich.w2l",
+            "string_ids": [
+                1215321
+            ]
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\player_stash\\stash.w2l",
+            "string_ids": [
+                0
+            ]
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\mq7024_interior_deco\\ground_floor_deco\\poor_deco\\deco_interior_poor.w2l",
+            "string_ids": [
+                1215321
+            ]
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\blockout_lights.w2l",
+            "string_ids": [
+                0
+            ]
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\q701_decoration_basement\\lights.w2l",
+            "string_ids": [
+                0
+            ]
+        }
+    ]
+}

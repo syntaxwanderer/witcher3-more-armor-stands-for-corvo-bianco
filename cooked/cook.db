@@ -1,0 +1,212 @@
+{
+    "files": [
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\bob.w2w",
+            "level": 0,
+            "class": "CGameWorld",
+            "seed": 1,
+            "id": "AA696808-4159DCC4-BA7482A0-7FAA52D6",
+            "diskSize": 12911662
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\basement_blockout.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "AC5E7A90-097B649B-246E7D4B-0293FB85",
+            "diskSize": 63912
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\basement_deco .w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "E5CCDED5-3DA8915B-3812D915-183C8AF1",
+            "diskSize": 57593
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\blockout.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "D53318E9-144308E5-884482A3-3DA12AE6",
+            "diskSize": 322928
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\blockout_lights.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "0495D950-EEDAAC59-057A4332-2C4449EE",
+            "diskSize": 5565
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\mq7024_decoration_basement\\lights.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "812B8DB3-DBDED748-11D34E77-A6FF2AB5",
+            "diskSize": 272
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\mq7024_decoration_basement\\loot.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "2AA52FDE-7FCA2E71-8BB97755-D4F6E1AE",
+            "diskSize": 1053
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\mq7024_decoration_basement\\renovated_basement.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "EFF93F5A-53B8BF0E-B60D9DE3-678C7ED7",
+            "diskSize": 82516
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\mq7024_interior_deco\\ground_floor_deco\\poor_deco\\deco_interior_poor.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "F5BB3DAE-12C07DC1-116B7773-4E6A256F",
+            "diskSize": 139968
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\mq7024_interior_deco\\ground_floor_deco\\rich_deco\\deco_interior_rich.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "E7609F0F-2A1670D5-563675BD-CE9D33C5",
+            "diskSize": 108630
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\q701_decoration_basement\\destroyed_decoration.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "9AE59647-4ADF3842-F6FE6AF7-8BFA2F54",
+            "diskSize": 15376
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\q701_decoration_basement\\lights.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "180FB042-307E6953-C0A55AC1-5A583B5C",
+            "diskSize": 4931
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\q705_epilog\\add_guest_room_deco\\packages\\packages_epilog.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "646D5502-FE7BF8CC-94C8E933-D66D85D9",
+            "diskSize": 12638
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\q705_epilog\\garden_chair\\deco_exterior.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "535FBA6D-8AC60050-6EEA3671-ED3F77D5",
+            "diskSize": 2993
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\locations\\vineyards\\east\\corvo_bianco\\q705_epilog\\unicorn\\deco_interior.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "311F3BEC-569FB953-7DD30791-20259B86",
+            "diskSize": 638
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\armor_stands\\upgrade_2\\entities.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "2456D131-53DFCB54-5404D9DE-D5609326",
+            "diskSize": 104466
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\armor_table\\armor_table\\decoration.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "E9C4257D-859F8BF9-7DC82560-558A3A47",
+            "diskSize": 13984
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\armor_table\\whetstone\\whetstone.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "5598D4A6-C7056503-C1E80115-E005E43C",
+            "diskSize": 16774
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\painting_slots\\default\\entities.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "7CC90B9B-CFB40D3A-976299A8-E9B7C5A6",
+            "diskSize": 6637
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\painting_slots\\upgrade_1\\entities.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "5416B48E-B007B456-5088FC35-2E386F58",
+            "diskSize": 8795
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\player_stash\\stash.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "55FCF31A-0CEA8141-58AD4BFC-84756C35",
+            "diskSize": 3911
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\weapon_stands\\upgrade_1\\entities.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "FB92C247-D0C491D3-208EAC41-55BB2CA0",
+            "diskSize": 1121
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\quests\\minor_quests\\mq7024_home\\entities\\weapon_stands\\upgrade_2\\entities.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "30D40CCE-17066EBB-B8830F75-E8250593",
+            "diskSize": 21693
+        },
+        {
+            "path": "levels\\kaer_morhen\\kaer_morhen.w2w",
+            "level": 0,
+            "class": "CGameWorld",
+            "seed": 1,
+            "id": "51FDB1A7-DF2CF7F7-5A852C97-54DF17FD",
+            "diskSize": 6501265
+        },
+        {
+            "path": "levels\\kaer_morhen\\kaer_morhen_valley\\q403_arsenal_rubble\\q403_arsenal_nonpermanent\\nonpermanent_rubble.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "B557FB5B-9B50CA8E-7D417BFF-08237DF9",
+            "diskSize": 272
+        },
+        {
+            "path": "levels\\kaer_morhen\\kaer_morhen_valley\\q403_arsenal_rubble\\q403_arsenal_rubble_static\\rubble.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "40AA41D2-EB52F9AC-DC0529E8-EB6898AC",
+            "diskSize": 6867
+        }
+    ]
+}
